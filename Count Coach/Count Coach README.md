@@ -1,1 +1,2 @@
-w
+Count Coach is a project that I'm working on for two reasons -- to build technical acumen while helping me gain better sense of rhythym in dancing.
+V1 : This was created in Google Colab with the initial intention of using APIs in order for me to learn how to apply APIs in my coding software; however, I quickly realized that there was no reason since Spotify API removed providing the statistics I was looking for on their songs recently, so I had to resort to file upload. This V1 does not really meet my "ideal" for this project though, but it came a long way, so I'm including it here. Also, it was heavily vibecoded. 
